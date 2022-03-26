@@ -1,12 +1,13 @@
-![logo](logo.png)
+![logo](_coverpage.assets/logo.png)
 
-# Build My Life
+# 唐先生的 IT 人生
 
-> 一个神奇的文档网站生成器。
+## 有道无术，术尚可求，有术无道，止于术。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+![logo](_coverpage.assets/slogan.png)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#Headline)
+
+
+[GitHub]()
+[开始阅读](README.md)
+
