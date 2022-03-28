@@ -1,9 +1,11 @@
-<!-- docs/_sidebar.md -->
+* [曾经年少](green_hand/)
+	* [后端](backend/)
+	    * [SpringSecurity使用说明](backend/SpringSecurity使用说明/)
+	    * [文件下载内容乱码](backend/文件下载内容乱码/)
+	* [前端](frontend/)
+	    * [表单图片预览、异步上传、数据获取](frontend/表单/)
+	* [运维](operation/)
+		* [CentOS基础设置](operation/CentOS基础设置/)
+		* [Ubuntu初始化设置](operation/Ubuntu18.04.2初始化设置/)
+		* [RedHat常用命令](operation/RedHat常用命令/)
 
-* [首页](/)
-* [指南](guide)
-
-* [前端](frontend/)
-    * [js](frontend/js/)
-    * [css](frontend/css/)
-* [后端](backend)
